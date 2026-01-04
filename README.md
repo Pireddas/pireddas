@@ -6,8 +6,6 @@ Construção.
 
 ---
 
-### Linguagens, Tecnologias e Especializações
-
 <img 
     align="left" 
     alt="HTML"
