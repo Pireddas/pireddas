@@ -34,14 +34,6 @@ Construção.
 />
 <img 
     align="left" 
-    alt="Cucumber"
-    title="Cucumber" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"
-/>
-<img 
-    align="left" 
     alt="VBA" 
     title="VBA"
     width="30px" 
