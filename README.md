@@ -110,6 +110,13 @@ Construção.
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/906b6deb-b2a2-43ea-810b-a6791b4ae98e" />
+<img
+    align="left" 
+    alt="Quant Finance" 
+    title="Quant Finance"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/7e50c603-7aad-4d85-a087-2864a1db8054" />
 
 <br/>
 <br/>
