@@ -6,6 +6,59 @@ Construção.
 
 ---
 
+<img
+    align="left" 
+    alt="Gestão Financeira" 
+    title="Gestão Financeira"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/4daf3821-64f8-46b6-bc54-f6f372cf455f"
+/>
+<img
+    align="left" 
+    alt="Estatística" 
+    title="Estatística"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/1753d866-a00f-48e6-8626-3c3028c8247d" 
+/>
+<img
+    align="left" 
+    alt="Análise de Dados" 
+    title="Análise de Dados"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/4fe65ee7-528a-4775-8a75-b18c63479c49"
+/>
+<img
+    align="left" 
+    alt="Machine Learning" 
+    title="Machine Learning"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/cec8b4ca-c994-4a0b-af72-dce971d9192f"
+/>
+<img
+    align="left" 
+    alt="Análise de Crédito, Cobrança e Reestruturação de Dívidas" 
+    title="Análise de Crédito, Cobrança e Reestruturação de Dívidas"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/a0bfc679-25b2-4cfb-8fe3-bd8cb9ea54a8" />
+<img
+    align="left" 
+    alt="Gestão de Risco Financeiro e de Mercado - 2682 e 4966" 
+    title="Gestão de Risco Financeiro e de Mercado - 2682 e 4966"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/906b6deb-b2a2-43ea-810b-a6791b4ae98e" />
+<img
+    align="left" 
+    alt="Quant Finance" 
+    title="Quant Finance"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/7e50c603-7aad-4d85-a087-2864a1db8054" />
 <img 
     align="left" 
     alt="HTML"
@@ -62,60 +115,6 @@ Construção.
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/201246b4-e305-460d-9426-b9c426025eb4" 
 />
-<img
-    align="left" 
-    alt="Gestão Financeira" 
-    title="Gestão Financeira"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/4daf3821-64f8-46b6-bc54-f6f372cf455f"
-/>
-<img
-    align="left" 
-    alt="Estatística" 
-    title="Estatística"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/1753d866-a00f-48e6-8626-3c3028c8247d" 
-/>
-<img
-    align="left" 
-    alt="Análise de Dados" 
-    title="Análise de Dados"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/4fe65ee7-528a-4775-8a75-b18c63479c49"
-/>
-<img
-    align="left" 
-    alt="Machine Learning" 
-    title="Machine Learning"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/cec8b4ca-c994-4a0b-af72-dce971d9192f"
-/>
-<img
-    align="left" 
-    alt="Análise de Crédito, Cobrança e Reestruturação de Dívidas" 
-    title="Análise de Crédito, Cobrança e Reestruturação de Dívidas"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/a0bfc679-25b2-4cfb-8fe3-bd8cb9ea54a8" />
-<img
-    align="left" 
-    alt="Gestão de Risco Financeiro e de Mercado - 2682 e 4966" 
-    title="Gestão de Risco Financeiro e de Mercado - 2682 e 4966"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/906b6deb-b2a2-43ea-810b-a6791b4ae98e" />
-<img
-    align="left" 
-    alt="Quant Finance" 
-    title="Quant Finance"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/7e50c603-7aad-4d85-a087-2864a1db8054" />
-
 <br/>
 <br/>
 </p>
