@@ -1,9 +1,8 @@
-## Ralf Pereira
+# Ralf Pereira
 
-**`Portfólio Profissional`**
+## **`Portfólio Profissional`**
 
-Os projetos aqui apresentados são `cases` fictício que representam situações reais enfrentadas no ambiente corporativo.
-Funcionalidades e situações podem não representar a realidade factual dos acontecimentos, mas tem como objetivo representá-las de forma realista.
+Os projetos apresentados são cases fictícios, baseados em situações reais do ambiente corporativo. As funcionalidades e cenários têm caráter ilustrativo e visam reproduzir contextos realistas.
 
 ---
 
