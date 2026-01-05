@@ -1,8 +1,9 @@
 ## Ralf Pereira
 
-**`Construção`**
+**`Portfólio Profissional`**
 
-Construção.
+Os projetos aqui apresentados são `cases` fictício que representam situações reais enfrentadas no ambiente corporativo.
+Funcionalidades e situações podem não representar a realidade factual dos acontecimentos, mas tem como objetivo representá-las de forma realista.
 
 ---
 
