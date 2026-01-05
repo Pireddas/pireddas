@@ -115,6 +115,14 @@ Os projetos apresentados são cases fictícios, baseados em situações reais do
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/201246b4-e305-460d-9426-b9c426025eb4" 
 />
+<img
+    align="left" 
+    alt="Outros" 
+    title="Outros"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/b429bd33-2c62-4778-b1fd-4e6d0b87a22b" />
+
 <br/>
 <br/>
 </p>
