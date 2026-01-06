@@ -2,7 +2,7 @@
 
 ## **`Portfólio Profissional`**
 
-Os projetos apresentados são cases fictícios, baseados em situações reais do ambiente corporativo. As funcionalidades e cenários têm caráter ilustrativo e visam reproduzir contextos realistas.
+Os projetos apresentados são cases fictícios, baseados em situações reais vividas no ambiente corporativo. As funcionalidades e cenários têm caráter ilustrativo e visam reproduzir contextos realistas.
 
 ---
 ---
