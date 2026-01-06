@@ -9,7 +9,7 @@ Os projetos apresentados são cases fictícios, baseados em situações reais vi
 
 ## <img width="30" src="https://github.com/user-attachments/assets/17e307c9-e19a-49a3-ab44-b8a54a250e46" /> Projetos
 ___
-### 1 - Solução para Comparação de Ativos Financeiros
+### 1 - Solução para Comparação de Ativos Financeiros [![Status](https://img.shields.io/badge/Em%20Desenvolvimento-green)](0) 
 
 Este projeto apresenta uma **solução estruturada para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
 
@@ -19,7 +19,7 @@ Mais do que um dashboard, o projeto demonstra como uma análise aparentemente si
 
 ---
 
-### 2 - Solução para Enquadramento, Decisão e Gestão de Crédito
+### 2 - Solução para Enquadramento, Decisão e Gestão de Crédito [![Status](https://img.shields.io/badge/Planejamento%20e%20Documentação-yellow)](0) 
 
 Este projeto apresenta uma **solução estruturada para o ciclo de concessão e renegociação de crédito**, desenvolvida com foco em **padronização de processos, flexibilidade decisória e evolução progressiva de inteligência**.
 
@@ -29,7 +29,22 @@ Em etapas posteriores, a solução incorpora **mecanismos de inteligência anal�
 
 A solução, além de padronizar os processos operacionais das equipes comerciais, é concebido como um **ecossistema de decisão de crédito**, no qual cada camada evolutiva — **workflow, motor de decisão, inteligência analítica, monitoramento de carteira e gestão de risco** — substitui estruturas estáticas por um ciclo contínuo de adaptação às condições de mercado.
 
-[Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/proj_compara_ativos)
+[Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
+
+---
+### 3 - Solução para Gestão de Portfólio de Investimentos [![Status](https://img.shields.io/badge/Aguardando%20Dependências-gray)](0) 
+
+Este projeto apresenta uma **solução estruturada para gestão de portfólio de investimentos**, com foco em **alocação eficiente de capital, controle de risco agregado e tomada de decisão sob cenários econômicos**.
+
+A solução parte do consumo direto das **capacidades analíticas desenvolvidas no projeto _Solução para Comparação de Ativos Financeiros_**, reutilizando métricas padronizadas, análises de comportamento e estatísticas avançadas como **insumos fundamentais** para decisões em nível de carteira.
+
+Além de uma evolução analítica, o projeto acrescenta uma **camada decisória superior**, responsável por transformar análises de ativos em **estratégias de alocação, rebalanceamento e gestão contínua**, considerando **restrições de risco, limites operacionais, custo de capital, VaR, níveis de confiança e precificação**.
+
+A solução também incorpora **avaliação de cenários econômicos e monitoramento contínuo da carteira**, permitindo ajustes dinâmicos ao longo do tempo e conectando decisões individuais à **governança global do portfólio**.
+
+Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no qual a análise de ativos (Projeto 1) sustenta a gestão estratégica de carteiras, mantendo **clareza de responsabilidades, escalabilidade e evolução incremental**.
+
+[Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
 ---
 
