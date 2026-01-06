@@ -19,6 +19,20 @@ Mais do que um dashboard, o projeto demonstra como uma análise aparentemente si
 
 ---
 
+### Solução para Enquadramento, Decisão e Gestão de Crédito
+
+Este projeto apresenta uma **solução estruturada para o ciclo de concessão e renegociação de crédito**, desenvolvida com foco em **padronização de processos, flexibilidade decisória e evolução progressiva de inteligência**.
+
+Inicialmente, a solução concentra-se no **enquadramento de propostas por workflow de alçadas**, garantindo aplicação consistente de políticas de crédito e rastreabilidade das decisões. A partir dessa base, o projeto evolui para um **motor de decisão parametrizável**, capaz de realizar **deferimentos automáticos** com base em **score contínuo**, substituindo gradualmente regras fixas por avaliações caso a caso.
+
+Em etapas posteriores, a solução incorpora **mecanismos de inteligência analítica e IA** para apoio à identificação de riscos, culminando em uma camada superior de **monitoramento e gestão de carteira de crédito**. Nessa fase, a decisão individual passa a ser influenciada por **cenários econômicos, métricas de risco, alocação de capital, custo de capital, VaR, níveis de confiança e precificação**, conectando a operação diária à gestão estratégica de risco.
+
+A solução, além de padronizar os processos operacionais das equipes comerciais, é concebido como um **ecossistema de decisão de crédito**, no qual cada camada evolutiva — **workflow, motor de decisão, inteligência analítica, monitoramento de carteira e gestão de risco** — substitui estruturas estáticas por um ciclo contínuo de adaptação às condições de mercado.
+
+[Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/proj_compara_ativos)
+
+---
+
 <img
     align="left" 
     alt="Gestão Financeira" 
