@@ -9,7 +9,8 @@ Os projetos apresentados são cases fictícios, baseados em situações reais vi
 
 ## <img width="30" src="https://github.com/user-attachments/assets/17e307c9-e19a-49a3-ab44-b8a54a250e46" /> Projetos
 ___
-### 1 - Solução para Comparação de Ativos Financeiros [![Status](https://img.shields.io/badge/Em%20Desenvolvimento-green)](0) 
+### 1 - Solução para Comparação de Ativos Financeiros  
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)](0) 
 
 Este projeto apresenta uma **solução estruturada para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
 
@@ -19,7 +20,8 @@ Mais do que um dashboard, o projeto demonstra como uma análise aparentemente si
 
 ---
 
-### 2 - Solução para Enquadramento, Decisão e Gestão de Crédito [![Status](https://img.shields.io/badge/Planejamento%20e%20Documentação-yellow)](0) 
+### 2 - Solução para Enquadramento, Decisão e Gestão de Crédito  
+[![Status](https://img.shields.io/badge/Status-Planejamento%20e%20Documentação-yellow)](0) 
 
 Este projeto apresenta uma **solução estruturada para o ciclo de concessão e renegociação de crédito**, desenvolvida com foco em **padronização de processos, flexibilidade decisória e evolução progressiva de inteligência**.
 
@@ -32,7 +34,8 @@ A solução, além de padronizar os processos operacionais das equipes comerciai
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
 ---
-### 3 - Solução para Gestão de Portfólio de Investimentos [![Status](https://img.shields.io/badge/Aguardando%20Dependências-gray)](0) 
+### 3 - Solução para Gestão de Portfólio de Investimentos  
+[![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](0) 
 
 Este projeto apresenta uma **solução estruturada para gestão de portfólio de investimentos**, com foco em **alocação eficiente de capital, controle de risco agregado e tomada de decisão sob cenários econômicos**.
 
