@@ -9,7 +9,7 @@ Os projetos apresentados são cases fictícios, baseados em situações reais vi
 
 ## <img width="30" src="https://github.com/user-attachments/assets/17e307c9-e19a-49a3-ab44-b8a54a250e46" /> Projetos
 ___
-### Solução para Comparação de Ativos Financeiros
+### 1 - Solução para Comparação de Ativos Financeiros
 
 Este projeto apresenta uma **solução estruturada para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
 
@@ -19,7 +19,7 @@ Mais do que um dashboard, o projeto demonstra como uma análise aparentemente si
 
 ---
 
-### Solução para Enquadramento, Decisão e Gestão de Crédito
+### 2 - Solução para Enquadramento, Decisão e Gestão de Crédito
 
 Este projeto apresenta uma **solução estruturada para o ciclo de concessão e renegociação de crédito**, desenvolvida com foco em **padronização de processos, flexibilidade decisória e evolução progressiva de inteligência**.
 
