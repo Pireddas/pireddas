@@ -5,6 +5,19 @@
 Os projetos apresentados são cases fictícios, baseados em situações reais do ambiente corporativo. As funcionalidades e cenários têm caráter ilustrativo e visam reproduzir contextos realistas.
 
 ---
+---
+
+## <img width="30" src="https://github.com/user-attachments/assets/17e307c9-e19a-49a3-ab44-b8a54a250e46" /> Projetos
+___
+### Solução para Comparação de Ativos Financeiros
+
+Este projeto apresenta uma **solução estruturada para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
+
+Mais do que um dashboard, o projeto demonstra como uma análise aparentemente simples pode ser tratada como um **produto analítico**, com separação clara entre **necessidade de negócio**, **requisitos**, **qualidade de software** e **evolução incremental**.
+
+[Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/proj_compara_ativos)
+
+---
 
 <img
     align="left" 
