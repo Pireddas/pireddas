@@ -1,4 +1,4 @@
-**>Início<** | [Workflow Corporativo](./workflow_corporativo.md) | [Portfólio]() | [Dicionário]() | [Contato]()
+**>Início<** | [Workflow Corporativo](./workflow_corporativo.md) | [Portfólio](0) | [Dicionário](0) | [Contato](0)
 
 # Ralf Pereira
 
