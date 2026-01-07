@@ -116,7 +116,45 @@ A partir disso, o líder pode utilizar a IA para:
 - Ajustar escopo e abordagem
 - Preparar o material necessário para a próxima etapa do workflow
 
+---
+
 A IA passa a apoiar também a **reunião de alinhamento**, estruturando informações, registrando decisões e mantendo rastreabilidade.
+
+```mermaid
+graph TD
+    subgraph "Camada de Decisão Humana"
+        GE[Gerente Executivo]
+        LI[Líder da Equipe]
+        AN[Analista / Qualificador]
+    end
+
+    subgraph "Camada de Abstração POO"
+        IA{Motor de IA}
+        Esp1[[Regras de Negócio]]
+        Esp2[[Assuntos Jurídicos]]
+        Esp3[[Compliance e Políticas]]
+    end
+
+    %% Fluxo de Abstração
+    LI -->|Instancia Contexto| IA
+    IA --> Esp1
+    IA --> Esp2
+    IA --> Esp3
+    
+    Esp1 & Esp2 & Esp3 -->|Consolida Insight| IA
+    IA -->|Retorno de Alto Nível| LI
+
+    %% Fluxo de Validação
+    GE -->|Direcionamento Qualificado| LI
+    LI -->|Refinamento| AN
+    AN -->|Formalização| Documento[Documento de Decisão]
+
+    %% Definição de Cores para Contraste
+    style IA fill:#8e44ad,stroke:#333,stroke-width:2px,color:#fff
+    style GE fill:#2980b9,stroke:#333,stroke-width:2px,color:#fff
+    style LI fill:#2980b9,stroke:#333,stroke-width:1px
+    style AN fill:#2980b9,stroke:#333,stroke-width:1px
+```
 
 ---
 
@@ -148,6 +186,44 @@ A interação do analista com a IA ocorre como um meio de:
 A documentação deixa de ser um exercício de descoberta ou tradução e passa a ser um processo de **formalização qualificada**, orientado à decisão e ao impacto no negócio.
 
 Nesse contexto, o analista atua como um **qualificador da decisão**, garantindo que aquilo que foi compreendido, direcionado e aprovado esteja corretamente representado nos artefatos que sustentam o workflow corporativo.
+
+---
+
+```mermaid
+graph TD
+    subgraph "Camada de Decisão Humana"
+        GE[Gerente Executivo]
+        LI[Líder da Equipe]
+        AN[Analista / Qualificador]
+    end
+
+    subgraph "Camada de Abstração POO"
+        IA{Motor de IA}
+        Esp1[[Documentos e Formulários]]
+        Esp2[[Bases de Dados]]
+        Esp3[[Rotinas e Processos]]
+    end
+
+    %% Fluxo de Abstração
+    AN -->|Instancia Contexto| IA
+    IA --> Esp1
+    IA --> Esp2
+    IA --> Esp3
+    
+    Esp1 & Esp2 & Esp3 -->|Consolida Insight| IA
+    IA -->|Retorno de Alto Nível| AN
+
+    %% Fluxo de Validação
+    GE -->|Direcionamento Qualificado| LI
+    LI -->|Refinamento| AN
+    AN -->|Formalização| Documento[Documento de Decisão]
+
+    %% Definição de Cores para Contraste
+    style IA fill:#8e44ad,stroke:#333,stroke-width:2px,color:#fff
+    style GE fill:#2980b9,stroke:#333,stroke-width:2px,color:#fff
+    style LI fill:#2980b9,stroke:#333,stroke-width:1px
+    style AN fill:#2980b9,stroke:#333,stroke-width:1px
+```
 
 ---
 
