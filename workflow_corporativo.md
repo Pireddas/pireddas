@@ -1,4 +1,4 @@
-[← Voltar para a Home](https://github.com/Pireddas) | **>Workflow Corporativo<** 
+[← Voltar para a Home](https://github.com/Pireddas) | **>Workflow Corporativo<** | [Demandas Orientado à Decisão](/modelo_decisorio_assistido.md)
 ___
 # Como Funciona um Fluxo Corporativo de Demandas
 
