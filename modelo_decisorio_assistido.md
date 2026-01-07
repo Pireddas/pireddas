@@ -7,6 +7,8 @@ Este documento descreve um modelo de trabalho em que atividades tradicionais de 
 
 O objetivo não é alterar o processo organizacional, mas **elevar o nível de abstração cognitiva** com que esse processo é executado.
 
+Essa interação permite a **Instanciação de Personas Especialistas**: o gerente pode simular a presença de múltiplos perfis técnicos simultaneamente (ex: um Analista de Riscos, um Cientista de Dados e um Especialista em Marketing). A IA atua como uma **Camada de Abstração (Facade)**, processando a complexidade técnica e entregando ao gerente os pontos críticos para a tomada de decisão antes mesmo da primeira reunião humana.
+
 ---
 
 ## Compreensão Antes da Interação Humana
@@ -57,6 +59,8 @@ Esse direcionamento pode ser formalizado pela própria IA, a partir da interaç�
 - Os objetivos esperados
 
 Esses artefatos passam a ser o ponto de partida do alinhamento com a liderança.
+
+Este processo resulta na redução drástica dos **"Unknown Unknowns"** (aquilo que a gestão nem sabe que não sabe). Ao antecipar dependências que normalmente só apareceriam após meses de discussão, o gerente assume o papel de um orquestrador que já possui o mapa das incertezas críticas desenhado, transformando reuniões de "descoberta básica" em reuniões de **"validação e decisão"**.
 
 ---
 
