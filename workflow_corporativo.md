@@ -5,6 +5,8 @@ ___
 Este documento descreve, de forma simples, como uma demanda surge dentro de uma empresa e se transforma em um projeto de desenvolvimento.  
 O objetivo é ajudar leitores sem experiência corporativa a entender **quem participa**, **o que acontece em cada etapa** e **como as decisões são estruturadas ao longo do processo**.
 
+>A compreensão desse fluxo é fundamental para acompanhar, nos próximos documentos, modelos alternativos de execução e tomada de decisão que partem do mesmo contexto organizacional, mas propõem uma nova forma de interação e atuação nessas atividades.
+
 ---
 
 ## Visão Geral
@@ -200,4 +202,16 @@ flowchart TD
   - Da alçada orçamentária
   - Do modelo de contratação
   - Da dependência (ou não) das equipes internas
+
+---
+
+---
+
+## Continuidade da Leitura
+
+O fluxo descrito neste documento representa o modelo de referência adotado por muitas organizações para estruturar e conduzir demandas.
+
+A partir desse entendimento, é possível explorar **uma forma alternativa de executar algumas dessas atividades**, mantendo a mesma governança, mas com uma abordagem diferente para a construção de entendimento e suporte à decisão.
+
+➡️ [Acesse o modelo de construção de demandas orientado à decisão](./modelo_decisorio_assistido.md)
 
