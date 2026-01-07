@@ -1,3 +1,6 @@
+[← Voltar para a Home](https://github.com/Pireddas) | [Workflow Corporativo](/workflow_corporativo.md) | **>Demandas Orientado à Decisão<**
+___
+
 # Um Modelo de Construção de Demandas Orientado à Decisão
 
 Este documento apresenta uma forma alternativa de conduzir atividades comuns ao fluxo corporativo de demandas, mantendo os mesmos princípios de governança, responsabilidade e alinhamento organizacional descritos no workflow de referência.
