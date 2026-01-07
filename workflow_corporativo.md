@@ -1,5 +1,5 @@
 [← Voltar para a Home](https://github.com/Pireddas) | **>Workflow Corporativo<** 
-
+___
 # Como Funciona um Fluxo Corporativo de Demandas
 
 Este documento descreve, de forma simples, como uma demanda surge dentro de uma empresa e se transforma em um projeto de desenvolvimento.  
