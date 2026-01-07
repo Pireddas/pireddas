@@ -1,4 +1,4 @@
-[← Voltar para a Home](https://github.com/Pireddas) | **>Workflow Corporativo<** | [README](./README.md)
+[← Voltar para a Home](https://github.com/Pireddas) | **>Workflow Corporativo<** 
 
 # Do Problema Estratégico ao Desenvolvimento: Como Funciona um Fluxo Corporativo de Demandas
 
