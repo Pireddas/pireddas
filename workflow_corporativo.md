@@ -53,7 +53,6 @@ Neste momento, **ainda não existe um projeto**, apenas uma **necessidade identi
 
 ## Etapa 2: Estruturação da Demanda (Gerência Executiva)
 
-### O que acontece?
 A gerência executiva:
 - Analisa a demanda identificada
 - Avalia sua relevância e escopo
@@ -71,7 +70,6 @@ Transformar uma necessidade inicial em uma demanda compreensível e estruturada.
 
 ## Etapa 3: Análise e Documentação (Negócio, BI e Coordenação)
 
-### O que acontece?
 Nesta fase são realizados:
 
 - Levantamento de dados históricos
@@ -92,7 +90,6 @@ Esse material é consolidado em **documentação formal**, utilizada nas etapas 
 
 ## Etapa 4: Revisão e Aprovação (Gerência Executiva)
 
-### O que acontece?
 A gerência executiva:
 - Analisa a documentação produzida
 - Solicita ajustes, quando necessário
@@ -105,8 +102,7 @@ Assegurar que a demanda está corretamente representada antes de seguir no fluxo
 ---
 
 ## Etapa 5: Avaliação pela Área de Projetos
-
-### O que acontece?
+?
 A área de projetos (ou PMO) analisa a demanda sob a ótica de planejamento e execução.
 
 Normalmente são avaliados:
@@ -125,7 +121,6 @@ Preparar a demanda para decisão e execução, considerando padrões organizacio
 
 ## Etapa 6: Alinhamento e Priorização (Diretoria)
 
-### O que acontece?
 Existe sempre um momento de alinhamento com a diretoria para:
 - Garantir aderência estratégica
 - Verificar limites de alçada orçamentária
@@ -139,7 +134,6 @@ Dependendo da alçada:
 
 ## Etapa 7: Desenvolvimento e Execução
 
-### O que acontece?
 Após as aprovações necessárias:
 - O modelo de execução é definido
 - Prazos e entregas são acordados
