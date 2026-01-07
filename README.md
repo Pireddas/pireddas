@@ -74,7 +74,6 @@ O diferencial deste projeto é a sua **Camada de Abstração Estratégica**: em 
 
 Ao integrar o processamento de dados em Python com a visão de gestão de carteira, o projeto entrega uma ferramenta de **apoio à decisão consciente**, onde a incerteza é quantificada e o risco é precificado de forma dinâmica.
 
-[Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
 ---
 
@@ -122,7 +121,13 @@ graph TD
     style M fill:#2980b9,stroke:#333,stroke-width:1px
 ```
 
+
+[Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
+
+
 ---
+
+
 
 <img
     align="left" 
