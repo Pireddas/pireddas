@@ -55,6 +55,75 @@ Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no q
 
 ---
 
+### 4 - Ecossistema de Modelagem e Gestão de Risco de Crédito (Basileia II)
+[![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
+
+Este projeto é a **extensão lógica e técnica** da [Solução para Enquadramento e Gestão de Crédito (Projeto 2)](#). Enquanto o estágio anterior consolidou o *workflow* e a governança, este framework materializa a camada de **Inteligência Analítica** e o rigor estatístico necessário para sustentar decisões baseadas em risco real.
+
+Ao estabelecer um **framework analítico de ponta a ponta para a gestão de risco de crédito** — fundamentado nos pilares do acordo de **Basileia II** —, a solução não apenas permite a automação de políticas, mas principalmente a estruturação de uma arquitetura de decisão baseada no cálculo da **Perda Esperada ($EL$)**.
+
+
+
+A solução utiliza **Regressão Logística e Linear** para instanciar três componentes críticos de decisão (**Personas Analíticas**):
+
+* **PD (Probability of Default):** Modelagem de probabilidade de inadimplência através de técnicas de *Weight of Evidence (WoE)* e *Information Value (IV)*, resultando em um **Scorecard** funcional para definição de *cut-offs*.
+* **LGD (Loss Given Default):** Estimativa da severidade da perda em caso de default, utilizando uma abordagem em dois estágios (Regressão Logística + Regressão Linear).
+* **EAD (Exposure at Default):** Cálculo da exposição no momento da falha, considerando fatores de conversão de crédito.
+
+O diferencial deste projeto é a sua **Camada de Abstração Estratégica**: em vez de regras estáticas de enquadramento, a gestão passa a ser orientada pelo impacto direto no **Capital Regulatório** e pela validação contínua via **PSI (Population Stability Index)** e métricas de performance (**Gini, AUROC e KS**). O sistema permite que o gestor atue como um orquestrador de risco, ajustando o apetite de crédito com base em evidências estatísticas e cenários de alocação de capital (Abordagens SA, F-IRB e A-IRB).
+
+Ao integrar o processamento de dados em Python com a visão de gestão de carteira, o projeto entrega uma ferramenta de **apoio à decisão consciente**, onde a incerteza é quantificada e o risco é precificado de forma dinâmica.
+
+[Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
+
+---
+
+#### Arquitetura de Decisão (Modelo de Abstração)
+
+```mermaid
+graph TD
+    subgraph "Camada de Gestão (Humana)"
+        GE[Gestor de Risco]
+        CO[Comitê de Crédito]
+    end
+
+    subgraph "Camada de Abstração (Motor)"
+        IA{Modelo de Risco<br>PD/LGD/EAD}
+        PD[[Probabilidade de Default]]
+        LGD[[Severidade da Perda]]
+        EAD[[Exposição no Default]]
+    end
+
+    subgraph "Métricas de Validação"
+        V[Gini / AUC / KS]
+        M[Monitoramento PSI]
+    end
+
+    %% Fluxo de Cálculo
+    GE -->|Parâmetros de Apetite| IA
+    IA --> PD
+    IA --> LGD
+    IA --> EAD
+    
+    PD & LGD & EAD -->|Cálculo de EL| IA
+    IA -->|Perda Esperada e Score| GE
+
+    %% Fluxo de Governança
+    IA -.->|Resultados| V
+    V --> M
+    M -->|Feedback de Estabilidade| GE
+    GE -->|Aprovação de Alçadas| CO
+
+    %% Estilização
+    style IA fill:#8e44ad,stroke:#333,stroke-width:2px,color:#fff
+    style GE fill:#2980b9,stroke:#333,stroke-width:2px,color:#fff
+    style CO fill:#2980b9,stroke:#333,stroke-width:1px,color:#fff
+    style V fill:#2980b9,stroke:#333,stroke-width:1px
+    style M fill:#2980b9,stroke:#333,stroke-width:1px
+```
+
+---
+
 <img
     align="left" 
     alt="Gestão Financeira" 
