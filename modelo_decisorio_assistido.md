@@ -1,7 +1,7 @@
 [← Voltar para a Home](https://github.com/Pireddas) | [Workflow Corporativo](/workflow_corporativo.md) | **>Modelo de Demandas Orientado à Decisão<**
 ___
 
-# Modelo de Construção de Demandas com Suporte de IA
+# Modelo de Gestão com Suporte de IA
 
 Este documento descreve um modelo de trabalho em que atividades tradicionais de análise, estruturação e documentação de demandas passam a ser realizadas com suporte direto de Inteligência Artificial, mantendo o workflow corporativo vigente, suas alçadas, responsabilidades e pontos de decisão.
 
