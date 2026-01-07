@@ -1,4 +1,4 @@
-[← Voltar para o README](./README.md) | 
+[← Voltar para a Home](https://github.com/Pireddas) | [README](./README.md)
 
 # Do Problema Estratégico ao Desenvolvimento: Como Funciona um Fluxo Corporativo de Demandas
 
