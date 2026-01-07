@@ -4,7 +4,9 @@ ___
 
 ## **`Portfólio Profissional`**
 
-Os projetos apresentados são cases fictícios, baseados em situações reais vividas no ambiente corporativo. As funcionalidades e cenários têm caráter ilustrativo e visam reproduzir contextos realistas.
+Os projetos apresentados neste portfólio são estudos de caso fictícios, baseados em situações reais vivenciadas no ambiente corporativo. As funcionalidades e os cenários descritos têm caráter ilustrativo e buscam reproduzir contextos organizacionais realistas.
+
+Para uma melhor compreensão da estrutura e da proposta dos projetos, recomenda-se a leitura — disponível no menu superior — dos documentos conceituais sobre `Workflow Corporativo` e `Modelo de Demandas Orientado à Decisão`.
 
 ---
 ---
