@@ -9,6 +9,13 @@ Os projetos apresentados neste portfólio são estudos de caso fictícios, basea
 Para uma melhor compreensão da estrutura e da proposta dos projetos, recomenda-se a leitura — disponível no menu superior — dos documentos conceituais sobre `"Workflow Corporativo"` e `"Modelo de Demandas Orientado à Decisão"`.
 
 ---
+
+Como Funciona um Fluxo Corporativo de Demandas [Acessar](https://github.com/Pireddas/pireddas/blob/main/workflow_corporativo.md)  
+>Detalhamento de como uma demanda surge dentro de uma empresa e se transforma em um projeto de desenvolvimento...
+
+Modelo de Gestão com Suporte de IA [Acessar](https://github.com/Pireddas/pireddas/blob/main/modelo_decisorio_assistido.md)
+>Modelo decisório assistido é um modelo de trabalho em que atividades tradicionais de análise, estruturação e documentação de demandas passam a ser realizadas com suporte direto de Inteligência Artificial...
+
 ---
 
 ## <img width="30" src="https://github.com/user-attachments/assets/17e307c9-e19a-49a3-ab44-b8a54a250e46" /> Projetos
