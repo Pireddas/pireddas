@@ -38,7 +38,6 @@ Esse fluxo envolve múltiplas áreas e diferentes níveis hierárquicos.
 
 ## Etapa 1: Origem da Demanda
 
-### O que acontece?
 Uma demanda pode surgir a partir de diferentes contextos, como:
 - Necessidades operacionais
 - Oportunidades de melhoria
