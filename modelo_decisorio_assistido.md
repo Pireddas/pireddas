@@ -64,6 +64,43 @@ Este processo resulta na redução drástica dos **"Unknown Unknowns"** (aquilo 
 
 ---
 
+```mermaid
+graph TD
+    subgraph "Camada de Decisão Humana"
+        GE[Gerente Executivo]
+        LI[Líder da Equipe]
+        AN[Analista / Qualificador]
+    end
+
+    subgraph "Camada de Abstração POO"
+        IA{Motor de IA}
+        Esp1[[Especialista Estatístico]]
+        Esp2[[Especialista Operacional]]
+        Esp3[[Especialista Marketing]]
+    end
+
+    %% Fluxo de Abstração
+    GE -->|Instancia Contexto| IA
+    IA --> Esp1
+    IA --> Esp2
+    IA --> Esp3
+    
+    Esp1 & Esp2 & Esp3 -->|Consolida Insight| IA
+    IA -->|Retorno de Alto Nível| GE
+
+    %% Fluxo de Validação
+    GE -->|Direcionamento Qualificado| LI
+    LI -->|Refinamento| AN
+    AN -->|Formalização| Documento[Documento de Decisão]
+
+    %% Definição de Cores para Contraste
+    style IA fill:#8e44ad,stroke:#333,stroke-width:2px,color:#fff
+    style GE fill:#2980b9,stroke:#333,stroke-width:2px,color:#fff
+    style LI fill:#2980b9,stroke:#333,stroke-width:1px
+    style AN fill:#2980b9,stroke:#333,stroke-width:1px
+```
+---
+
 ## Atuação do Líder com Suporte da IA
 
 O Líder da equipe, ao receber essa documentação inicial:
