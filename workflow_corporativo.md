@@ -95,6 +95,7 @@ A gerência executiva:
 - Solicita ajustes, quando necessário
 - Confirma o entendimento da demanda
 - Aprova formalmente o avanço
+- Assegurar que a demanda esteja corretamente representada, validada pela gerência executiva e formalmente alinhada com a Diretoria antes de seguir para o fluxo de priorização.
 
 ### Objetivo:
 Assegurar que a demanda está corretamente representada antes de seguir no fluxo.
@@ -102,7 +103,7 @@ Assegurar que a demanda está corretamente representada antes de seguir no fluxo
 ---
 
 ## Etapa 5: Avaliação pela Área de Projetos
-?
+
 A área de projetos (ou PMO) analisa a demanda sob a ótica de planejamento e execução.
 
 Normalmente são avaliados:
@@ -112,7 +113,7 @@ Normalmente são avaliados:
 - Custos estimados
 - Dependências
 - Modelo de execução
-- Indicadores financeiros, quando aplicável
+- Análise de custo, impacto e retorno, quando aplicável
 
 ### Objetivo:
 Preparar a demanda para decisão e execução, considerando padrões organizacionais.
@@ -121,14 +122,14 @@ Preparar a demanda para decisão e execução, considerando padrões organizacio
 
 ## Etapa 6: Alinhamento e Priorização (Diretoria)
 
-Existe sempre um momento de alinhamento com a diretoria para:
-- Garantir aderência estratégica
+Existe um momento formal de alinhamento com a Diretoria com os seguintes objetivos:
+- Confirmar a aderência estratégica da demanda
 - Verificar limites de alçada orçamentária
-- Dar visibilidade executiva
+- Garantir visibilidade executiva sobre as iniciativas em andamento
 
-Dependendo da alçada:
-- A demanda pode entrar na priorização corporativa
-- Ou seguir diretamente para execução, sob responsabilidade da gerência executiva
+A partir desse alinhamento, a demanda pode seguir caminhos distintos, conforme sua natureza e alçada:
+- Entrar no processo de priorização do portfólio corporativo
+- Seguir diretamente para execução, sob responsabilidade da gerência executiva
 
 ---
 
