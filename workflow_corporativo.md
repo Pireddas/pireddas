@@ -1,6 +1,6 @@
 [← Voltar para a Home](https://github.com/Pireddas) | **>Workflow Corporativo<** 
 
-# Do Problema Estratégico ao Desenvolvimento: Como Funciona um Fluxo Corporativo de Demandas
+# Como Funciona um Fluxo Corporativo de Demandas
 
 Este documento descreve, de forma simples, como uma demanda surge dentro de uma empresa e se transforma em um projeto de desenvolvimento.  
 O objetivo é ajudar leitores sem experiência corporativa a entender **quem participa**, **o que acontece em cada etapa** e **como as decisões são estruturadas ao longo do processo**.
