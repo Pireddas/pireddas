@@ -179,7 +179,7 @@ flowchart TD
 
     D --> F[Gerência Executiva<br/>Revisão e aprovação<br/>da documentação]
 
-    F --> G{No orçamento da Gerência Executiva?}
+    F --> G{No orçamento da <br/>Gerência Executiva?}
 
     G -->|Equipe interna<br/>ou contrato existente| H[Área de Projetos / PMO<br/>Avaliação de impactos<br/>e priorização]
 
