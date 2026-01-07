@@ -66,6 +66,8 @@ Ela normalmente envolve:
 ### Objetivo:
 Transformar uma necessidade inicial em uma demanda compreensível e estruturada.
 
+> **O Gargalo da Descoberta Reativa:**
+> Neste modelo tradicional, o entendimento das dependências (ex: impactos estatísticos, regulatórios ou operacionais) é reativo. O gerente descobre a real complexidade à medida que as reuniões de exploração acontecem, gerando um alto **Custo de Contexto** e potenciais atrasos conforme novos "pontos cegos" aparecem no meio do processo.
 ---
 
 ## Etapa 3: Análise e Documentação (Negócio, BI e Coordenação)
