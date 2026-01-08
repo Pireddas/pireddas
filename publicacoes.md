@@ -1,3 +1,6 @@
+[← Voltar para a Home](https://github.com/Pireddas) | [Fluxo Corporativo de Demandas](./workflow_corporativo.md) | [Modelo de Demandas Orientado à Decisão](/modelo_decisorio_assistido.md)
+___
+
 # 📚 Publicações e Pesquisa
 
 Bem-vindo ao meu laboratório de ideias. Esta página centraliza a evolução do meu pensamento sobre gestão, processos e IA, organizada pela maturidade do conhecimento.
