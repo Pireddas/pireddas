@@ -128,6 +128,7 @@ ___
 
 ___
 
+
 | — | Portfólio Profissional - Pesquisa e Desenvolvimento | — |
 |--|--|--|
 
@@ -165,10 +166,14 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 ---
 
+<table>
+    </tr>
+        <td  align="center">
+            $$\huge Projetos$$
+            <br>____________________________________________________________________________________________________________________________________________________
+        </td>
+</table>
 
-$$\huge Projetos$$
-
-# 
 
 | — | 1 - Solução para Comparação de Ativos Financeiros | — |
 |--|--|--|
