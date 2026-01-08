@@ -141,10 +141,9 @@ Como Funciona um Fluxo Corporativo de Demandas [Acessar](https://github.com/Pire
 Modelo de Gestão Assistida com Suporte de IA [Acessar](https://github.com/Pireddas/pireddas/blob/main/modelo_decisorio_assistido.md)
 >Modelo decisório assistido é um modelo de trabalho em que atividades tradicionais de análise, estruturação e documentação de demandas passam a ser realizadas com suporte direto de Inteligência Artificial...
 
-# 
+---
 
-#  - Projetos -
-
+# `Projetos`
 
 <br/>
 
