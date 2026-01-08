@@ -1,4 +1,4 @@
-[← Voltar para a Home](https://github.com/Pireddas) | [Workflow Corporativo](/workflow_corporativo.md) | **>Modelo de Demandas Orientado à Decisão<**
+[← Voltar para a Home](https://github.com/Pireddas) | [Fluxo Corporativo de Demandas](/workflow_corporativo.md) | **>Modelo de Demandas Orientado à Decisão<**
 ___
 
 # Modelo de Gestão Assistida com Suporte de IA
