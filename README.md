@@ -17,10 +17,14 @@ Modelo de Gestão com Suporte de IA [Acessar](https://github.com/Pireddas/piredd
 >Modelo decisório assistido é um modelo de trabalho em que atividades tradicionais de análise, estruturação e documentação de demandas passam a ser realizadas com suporte direto de Inteligência Artificial...
 
 ---
+---
 
 ## <img width="30" src="https://github.com/user-attachments/assets/17e307c9-e19a-49a3-ab44-b8a54a250e46" /> Projetos
 ___
-### 1 - Solução para Comparação de Ativos Financeiros  
+
+<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e71d8d6b-0314-4ffc-ae68-5be7f73cc0d2" />
+
+## 1 - Solução para Comparação de Ativos Financeiros  
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)](#) 
 
 Este projeto apresenta uma **solução estruturada para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
@@ -30,8 +34,11 @@ O projeto demonstra como uma análise aparentemente simples pode ser tratada com
 [Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/proj_compara_ativos)
 
 ---
+---
 
-### 2 - Solução para Enquadramento, Decisão e Gestão de Crédito  
+<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/85843179-cf41-45fd-a909-56eb35f1fc17" />
+
+## 2 - Solução para Enquadramento, Decisão e Gestão de Crédito  
 [![Status](https://img.shields.io/badge/Status-Planejamento%20e%20Documentação-yellow)](#) 
 
 Este projeto apresenta uma **solução estruturada para o ciclo de concessão e renegociação de crédito**, desenvolvida com foco em **padronização de processos, flexibilidade decisória e evolução progressiva de inteligência**.
@@ -45,7 +52,11 @@ A solução, além de padronizar os processos operacionais das equipes comerciai
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
 ---
-### 3 - Solução para Gestão de Portfólio de Investimentos  
+---
+
+<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/ada08087-8678-4b9c-91e9-9286738398fa" />
+
+## 3 - Solução para Gestão de Portfólio de Investimentos  
 [![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
 
 Este projeto apresenta uma **solução estruturada para gestão de portfólio de investimentos**, com foco em **alocação eficiente de capital, controle de risco agregado e tomada de decisão sob cenários econômicos**.
@@ -62,7 +73,11 @@ Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no q
 
 ---
 
-### 4 - Ecossistema de Modelagem e Gestão de Risco de Crédito (Basileia II)
+---
+
+<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e0e1cb03-7f5b-4215-ae15-d8f822813d14" />
+
+## 4 - Ecossistema de Modelagem e Gestão de Risco de Crédito (Basileia II)
 [![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
 
 Este projeto é a **extensão lógica e técnica** da [Solução para Enquadramento e Gestão de Crédito (Projeto 2)](#). Enquanto o estágio anterior consolidou o *workflow* e a governança, este framework materializa a camada de **Inteligência Analítica** e o rigor estatístico necessário para sustentar decisões baseadas em risco real.
