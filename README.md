@@ -1,4 +1,4 @@
-**>Início<** | [Fluxo Corporativo de Demandas](./workflow_corporativo.md) | [Portfólio](#) | [Dicionário](#) | [Contato](mailto:ralfpiredda@gmail.com)
+**>Início<** | [Publicações](#publicações---papers--artigos) | [Portfólio](#) | [Dicionário](#) | [Contato](mailto:ralfpiredda@gmail.com)
 ___
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/c7826ee9-f2d7-4574-9566-eede65a32beb" />
@@ -158,7 +158,7 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 ---
 
-# `Projetos`
+$$\huge Projetos$$
 
 | — | 1 - Solução para Comparação de Ativos Financeiros | — |
 |--|--|--|
@@ -251,7 +251,7 @@ Este projeto é a **extensão lógica e técnica** da [Solução para Enquadrame
 
 Ao estabelecer um **framework analítico de ponta a ponta para a gestão de risco de crédito** — fundamentado nos pilares do acordo de **Basileia II** —, a solução não apenas permite a automação de políticas, mas principalmente a estruturação de uma arquitetura de decisão baseada no cálculo da **Perda Esperada ($EL$)**.
 
-
+$$EL = PD \times LGD \times EAD$$
 
 A solução utiliza **Regressão Logística e Linear** para instanciar três componentes críticos de decisão (**Personas Analíticas**):
 
