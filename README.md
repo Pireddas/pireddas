@@ -134,6 +134,8 @@ Os projetos apresentados neste portfólio são estudos de caso fictícios, basea
 Para uma melhor compreensão da estrutura e da proposta dos projetos, recomenda-se a leitura — disponível no menu superior e na seção abaixo — dos documentos conceituais sobre `"Workflow Corporativo"` e `"Modelo de Demandas Orientado à Decisão"`.
 
 # 
+| — | Publicações | — |
+|--|--|--|
 
 Como Funciona um Fluxo Corporativo de Demandas [Acessar](https://github.com/Pireddas/pireddas/blob/main/workflow_corporativo.md)  
 >Detalhamento de como uma demanda surge dentro de uma empresa e se transforma em um projeto de desenvolvimento...
@@ -165,7 +167,7 @@ O projeto demonstra como uma análise aparentemente simples pode ser tratada com
 
 [Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/proj_compara_ativos)
 
----
+# 
 
 <br/>
 
@@ -192,7 +194,7 @@ A solução, além de padronizar os processos operacionais das equipes comerciai
 
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
----
+# 
 
 <br/>
 
@@ -221,7 +223,7 @@ Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no q
 
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
----
+# 
 
 <br/>
 
