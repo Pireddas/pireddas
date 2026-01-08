@@ -126,8 +126,13 @@ ___
 
 ___
 
-| — | Portfólio Profissional | — |
+| — | Portfólio Profissional - Pesquisa e Desenvolvimento | — |
 |--|--|--|
+
+Este portfólio funciona como um **ambiente de experimentação e validação**. Os projetos aqui apresentados transpõem experiências reais do mercado corporativo para um laboratório de testes onde busco provar a transição entre dois modelos:
+
+1. **A Gestão Padrão (Vivida):** Estruturas consolidadas de governança e workflow que domino por vivência prática.
+2. **A Gestão Assistida (Tese):** Uma proposta de inovação cognitiva que integra IA como camada de suporte à decisão, atualmente em fase de testagem através destes projetos.
 
 Os projetos apresentados neste portfólio são estudos de caso fictícios, baseados em situações reais vivenciadas no ambiente corporativo. As funcionalidades e os cenários descritos têm caráter ilustrativo e buscam reproduzir contextos organizacionais realistas.
 
