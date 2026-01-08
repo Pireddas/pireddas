@@ -133,22 +133,32 @@ Os projetos apresentados neste portfólio são estudos de caso fictícios, basea
 
 Para uma melhor compreensão da estrutura e da proposta dos projetos, recomenda-se a leitura — disponível no menu superior e na seção abaixo — dos documentos conceituais sobre `"Workflow Corporativo"` e `"Modelo de Demandas Orientado à Decisão"`.
 
-# 
+---
+
 | — | Publicações - Papers & Artigos | — |
 |--|--|--|
 
-Como Funciona um Fluxo Corporativo de Demandas [Acessar](https://github.com/Pireddas/pireddas/blob/main/workflow_corporativo.md)  
->Detalhamento de como uma demanda surge dentro de uma empresa e se transforma em um projeto de desenvolvimento...
+Aqui apresento estudos e frameworks focados na evolução da gestão e na eficiência operacional.
 
-Modelo de Gestão Assistida com Suporte de IA [Acessar](https://github.com/Pireddas/pireddas/blob/main/modelo_decisorio_assistido.md)
->Modelo decisório assistido é um modelo de trabalho em que atividades tradicionais de análise, estruturação e documentação de demandas passam a ser realizadas com suporte direto de Inteligência Artificial...
+### 📄 Fluxo Corporativo de Demandas
+**Tipo:** Baseline Metodológico  
+
+> **Contexto:** Um mapeamento detalhado do cenário tradicional (As-Is). Este paper analisa o ciclo de vida de uma demanda, desde o gatilho inicial até a execução, destacando os pontos críticos de decisão e os gargalos de compreensão reativa.
+
+**[Ler na íntegra →](https://github.com/Pireddas/pireddas/blob/main/workflow_corporativo.md)**
+
+# 
+
+### 📄 Modelo de Gestão Assistida com Suporte de IA
+**Tipo:** Proposta de Framework (To-Be)
+
+> **Contexto:** Uma evolução do modelo tradicional. Este artigo propõe a utilização da IA como uma Camada de Abstração Cognitiva, permitindo que a gestão opere em níveis mais altos de estratégia através da instanciação de personas especialistas.
+
+**[Ler na íntegra →](https://github.com/Pireddas/pireddas/blob/main/modelo_decisorio_assistido.md)**
 
 ---
 
 # `Projetos`
-
-<br/>
-
 
 | — | 1 - Solução para Comparação de Ativos Financeiros | — |
 |--|--|--|
