@@ -1,7 +1,7 @@
 **>Início<** | [Publicações](./publicacoes.md) | [Portfólio](#) | [Dicionário](#) | [Contato](mailto:ralfpiredda@gmail.com)
 ___
 
-<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/c7826ee9-f2d7-4574-9566-eede65a32beb" />
+<img width="1020" height="255" alt="image" src="https://github.com/user-attachments/assets/39983569-1cb1-4329-8b39-c668261c2bb1" />
 
 # Ralf Pereira
 
@@ -128,8 +128,7 @@ ___
 
 ___
 
-
-| — | Portfólio Profissional - Pesquisa e Desenvolvimento | — |
+| — | Pesquisa e Desenvolvimento | — |
 |--|--|--|
 
 Este portfólio funciona como um **ambiente de experimentação e validação**. Os projetos aqui apresentados transpõem experiências reais do mercado corporativo para um laboratório de testes onde busco provar a transição entre dois modelos:
