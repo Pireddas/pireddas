@@ -143,10 +143,7 @@ Modelo de Gestão Assistida com Suporte de IA [Acessar](https://github.com/Pired
 
 ---
 
-<br/>
-
-
-# Projetos
+#  - Projetos -
 
 
 <br/>
