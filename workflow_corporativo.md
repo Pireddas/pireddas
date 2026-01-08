@@ -211,3 +211,10 @@ A partir desse entendimento, é possível explorar **uma forma alternativa de ex
 
 ➡️ [Acesse o modelo de construção de demandas orientado à decisão](./modelo_decisorio_assistido.md)
 
+<br/><br/>
+
+---
+**Autor:** Ralf Pereira  
+**Tópico:** Baseline de Processos Corporativos  
+**Status:** Documentação de Referência (Vivida)
+
