@@ -21,8 +21,9 @@ Modelo de Gestão com Suporte de IA [Acessar](https://github.com/Pireddas/piredd
 
 ---
 ---
+| Lista de Projetos |
+|--|
 
-## <img width="30" src="https://github.com/user-attachments/assets/17e307c9-e19a-49a3-ab44-b8a54a250e46" /> Projetos
 ___
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e71d8d6b-0314-4ffc-ae68-5be7f73cc0d2" />
