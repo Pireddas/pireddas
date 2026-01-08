@@ -5,7 +5,7 @@ ___
 
 # Ralf Pereira
 
-<br/><br/><br/>
+<br/>
 
 <img
     align="left" 
@@ -165,11 +165,10 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 ---
 
-<br/>
 
 $$\huge Projetos$$
 
----
+# 
 
 | — | 1 - Solução para Comparação de Ativos Financeiros | — |
 |--|--|--|
