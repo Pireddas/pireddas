@@ -5,6 +5,9 @@ ___
 
 # Ralf Pereira
 
+<br/>
+
+
 | — | Portfólio Profissional | — |
 |--|--|--|
 
@@ -21,31 +24,46 @@ Modelo de Gestão com Suporte de IA [Acessar](https://github.com/Pireddas/piredd
 >Modelo decisório assistido é um modelo de trabalho em que atividades tradicionais de análise, estruturação e documentação de demandas passam a ser realizadas com suporte direto de Inteligência Artificial...
 
 ---
----
-| — |  Lista de Projetos   | — |
-|--|--|--|
----
----
+
+<br/>
+
+
+# Projetos
+
+
+<br/>
+
 
 | — | 1 - Solução para Comparação de Ativos Financeiros | — |
 |--|--|--|
-<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e71d8d6b-0314-4ffc-ae68-5be7f73cc0d2" />
+
+<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e71d8d6b-0314-4ffc-ae68-5be7f73cc0d2" />  
 
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)](#) 
+
+<br/>
 
 Este projeto apresenta uma **solução estruturada para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
 
 O projeto demonstra como uma análise aparentemente simples pode ser tratada como um **produto analítico**, com separação clara entre **necessidade de negócio**, **requisitos**, **qualidade de software** e **evolução incremental**.
 
+<br/>
+
 [Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/proj_compara_ativos)
 
 ---
+
+<br/>
+
 
 | — | 2 - Solução para Enquadramento, Decisão e Gestão de Crédito   | — |
 |--|--|--|
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/85843179-cf41-45fd-a909-56eb35f1fc17" />
 
 [![Status](https://img.shields.io/badge/Status-Planejamento%20e%20Documentação-yellow)](#) 
+
+<br/>
+
 
 Este projeto apresenta uma **solução estruturada para o ciclo de concessão e renegociação de crédito**, desenvolvida com foco em **padronização de processos, flexibilidade decisória e evolução progressiva de inteligência**.
 
@@ -55,15 +73,24 @@ Em etapas posteriores, a solução incorpora **mecanismos de inteligência anal�
 
 A solução, além de padronizar os processos operacionais das equipes comerciais, é concebido como um **ecossistema de decisão de crédito**, no qual cada camada evolutiva — **workflow, motor de decisão, inteligência analítica, monitoramento de carteira e gestão de risco** — substitui estruturas estáticas por um ciclo contínuo de adaptação às condições de mercado.
 
+<br/>
+
+
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
 ---
+
+<br/>
+
 
 | — | 3 - Solução para Gestão de Portfólio de Investimentos     | — |
 |--|--|--|
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/ada08087-8678-4b9c-91e9-9286738398fa" />
 
 [![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
+
+<br/>
+
 
 Este projeto apresenta uma **solução estruturada para gestão de portfólio de investimentos**, com foco em **alocação eficiente de capital, controle de risco agregado e tomada de decisão sob cenários econômicos**.
 
@@ -75,15 +102,24 @@ A solução também incorpora **avaliação de cenários econômicos e monitoram
 
 Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no qual a análise de ativos (Projeto 1) sustenta a gestão estratégica de carteiras, mantendo **clareza de responsabilidades, escalabilidade e evolução incremental**.
 
+<br/>
+
+
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
 ---
+
+<br/>
+
 
 | — | 4 - Ecossistema de Modelagem e Gestão de Risco de Crédito (Basileia II)  | — |
 |--|--|--|
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e0e1cb03-7f5b-4215-ae15-d8f822813d14" />
 
 [![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
+
+<br/>
+
 
 Este projeto é a **extensão lógica e técnica** da [Solução para Enquadramento e Gestão de Crédito (Projeto 2)](#). Enquanto o estágio anterior consolidou o *workflow* e a governança, este framework materializa a camada de **Inteligência Analítica** e o rigor estatístico necessário para sustentar decisões baseadas em risco real.
 
@@ -103,6 +139,8 @@ Ao integrar o processamento de dados em Python com a visão de gestão de cartei
 
 
 ---
+
+<br/>
 
 | — | Arquitetura de Decisão (Modelo de Abstração)    | — |
 |--|--|--|
@@ -149,6 +187,7 @@ graph TD
     style M fill:#2980b9,stroke:#333,stroke-width:1px
 ```
 
+<br/>
 
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
