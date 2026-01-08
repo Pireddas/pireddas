@@ -1,4 +1,4 @@
-[← Voltar para a Home](https://github.com/Pireddas) | [Fluxo Corporativo de Demandas](/workflow_corporativo.md) | **>Modelo de Demandas Orientado à Decisão<**
+[← Voltar para a Home](https://github.com/Pireddas) | [Fluxo Corporativo de Demandas](./workflow_corporativo.md) | **>Modelo de Demandas Orientado à Decisão<**
 ___
 
 # Modelo de Gestão Assistida com Suporte de IA
@@ -261,3 +261,12 @@ A qualidade do direcionamento aumenta.
 A eficiência cognitiva se eleva de forma significativa.
 
 O processo deixa de ser orientado à produção de artefatos e passa a ser **orientado à decisão, entendimento e impacto**.
+
+<br/><br/>
+
+---
+**Autor:** Ralf Pereira  
+**Tópico:** Framework de Gestão Assistida por IA  
+**Status:** Modelo em Validação (Tese)  
+
+> *Este framework está sendo testado e refinado através dos estudos de caso apresentados no meu [Portfólio Profissional](https://github.com/Pireddas).*
