@@ -165,7 +165,7 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 ---
 
-<img width="1020" height="120" alt="Projetos" src="https://github.com/user-attachments/assets/162ab81c-3111-4cff-a158-1d380c50f5a1" />
+<img width="1020" height="240" alt="Projetos" src="https://github.com/user-attachments/assets/162ab81c-3111-4cff-a158-1d380c50f5a1" />
 
 # 
 
