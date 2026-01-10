@@ -3,7 +3,11 @@ ___
 
 <img width="1020" height="255" alt="image" src="https://github.com/user-attachments/assets/39983569-1cb1-4329-8b39-c668261c2bb1" />
 
-# Ralf Pereira
+<p style="text-align:center;">
+    <h1>
+        Ralf Pereira    
+    </h1>
+</p>
 
 <br/>
 
@@ -128,8 +132,9 @@ ___
 
 ___
 
-| — | Pesquisa e Desenvolvimento | — |
-|--|--|--|
+<p style="text-align:center;">
+    <h1>Pesquisa e Desenvolvimento</h1>
+</p>
 
 Este portfólio funciona como um **ambiente de experimentação e validação**. Os projetos aqui apresentados transpõem experiências reais do mercado corporativo para um laboratório de testes onde busco provar a transição entre dois modelos:
 
@@ -140,11 +145,14 @@ Os projetos apresentados neste portfólio são estudos de caso fictícios, basea
 
 Para uma melhor compreensão da estrutura e da proposta dos projetos, recomenda-se a leitura — disponível no menu superior e na seção abaixo — dos documentos conceituais sobre `"Workflow Corporativo"` e `"Modelo de Demandas Orientado à Decisão"`.
 
----
+<br>
+
 ---
 
-| — | Publicações - Papers & Artigos | — |
-|--|--|--|
+<p style="text-align:center;">
+    <h1>Publicações - Papers & Artigos</h1>
+</p>
+
 
 Aqui apresento estudos e frameworks focados na evolução da gestão e na eficiência operacional.
 
@@ -166,17 +174,21 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 **[Ler na íntegra →](https://github.com/Pireddas/pireddas/blob/main/modelo_decisorio_assistido.md)**
 
----
----
-
-<img width="1020" height="240" alt="Projetos" src="https://github.com/user-attachments/assets/162ab81c-3111-4cff-a158-1d380c50f5a1" />
+<br>
 
 ---
----
-# 
 
-| — | 1 - Solução para Comparação de Ativos Financeiros | — |
-|--|--|--|
+<p style="text-align:center;">
+    <h1>Portfólio de Projetos</h1>
+</p>
+
+<br>
+
+<p style="text-align:center;">
+    <h2>
+        1 - Solução para Comparação de Ativos Financeiros
+    </h1>
+</p>
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e71d8d6b-0314-4ffc-ae68-5be7f73cc0d2" />  
 
@@ -197,8 +209,12 @@ O projeto demonstra como uma análise aparentemente simples pode ser tratada com
 <br/>
 
 
-| — | 2 - Solução para Enquadramento, Decisão e Gestão de Crédito   | — |
-|--|--|--|
+<p style="text-align:center;">
+    <h2>
+        2 - Solução para Enquadramento, Decisão e Gestão de Crédito
+    </h1>
+</p>
+
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/85843179-cf41-45fd-a909-56eb35f1fc17" />
 
 [![Status](https://img.shields.io/badge/Status-Planejamento%20e%20Documentação-yellow)](#) 
@@ -223,9 +239,12 @@ A solução, além de padronizar os processos operacionais das equipes comerciai
 
 <br/>
 
+<p style="text-align:center;">
+    <h2>
+        3 - Solução para Gestão de Portfólio de Investimentos
+    </h1>
+</p>
 
-| — | 3 - Solução para Gestão de Portfólio de Investimentos     | — |
-|--|--|--|
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/ada08087-8678-4b9c-91e9-9286738398fa" />
 
 [![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
@@ -252,9 +271,12 @@ Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no q
 
 <br/>
 
+<p style="text-align:center;">
+    <h2>
+        4 - Ecossistema de Modelagem e Gestão de Risco de Crédito (Basileia II)
+    </h1>
+</p>
 
-| — | 4 - Ecossistema de Modelagem e Gestão de Risco de Crédito (Basileia II)  | — |
-|--|--|--|
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e0e1cb03-7f5b-4215-ae15-d8f822813d14" />
 
 [![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
@@ -280,8 +302,11 @@ Ao integrar o processamento de dados em Python com a visão de gestão de cartei
 
 <br/>
 
-| — | Arquitetura de Decisão (Modelo de Abstração)    | — |
-|--|--|--|
+<p style="text-align:center;">
+    <h3>
+        4.1 - Arquitetura de Decisão (Modelo de Abstração)
+    </h1>
+</p>
 
 ```mermaid
 graph TD
