@@ -141,11 +141,14 @@ Os projetos apresentados neste portfólio são estudos de caso fictícios, basea
 Para uma melhor compreensão da estrutura e da proposta dos projetos, recomenda-se a leitura — disponível no menu superior e na seção abaixo — dos documentos conceituais sobre `"Workflow Corporativo"` e `"Modelo de Demandas Orientado à Decisão"`.
 
 ---
+---
 
 | — | Publicações - Papers & Artigos | — |
 |--|--|--|
 
 Aqui apresento estudos e frameworks focados na evolução da gestão e na eficiência operacional.
+
+# 
 
 ### 📄 Fluxo Corporativo de Demandas
 **Tipo:** Baseline Metodológico  
@@ -164,9 +167,12 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 **[Ler na íntegra →](https://github.com/Pireddas/pireddas/blob/main/modelo_decisorio_assistido.md)**
 
 ---
+---
 
 <img width="1020" height="240" alt="Projetos" src="https://github.com/user-attachments/assets/162ab81c-3111-4cff-a158-1d380c50f5a1" />
 
+---
+---
 # 
 
 | — | 1 - Solução para Comparação de Ativos Financeiros | — |
