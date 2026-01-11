@@ -1,7 +1,8 @@
 **>Início<** | [Publicações](./publicacoes.md) | [Portfólio](#) | [Dicionário](#) | [Contato](mailto:ralfpiredda@gmail.com)
 ___
 
-<img width="1020" height="255" alt="image" src="https://github.com/user-attachments/assets/2fe8eb8a-6ee5-400b-a2a3-f59383a9b68a" />
+<img width="1020" height="255" alt="image" src="https://github.com/user-attachments/assets/98f8c70c-a2bd-4543-bf4c-6a301f1cd56a" />
+
 
 <p style="text-align:center;">
     <h1>
