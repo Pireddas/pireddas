@@ -329,9 +329,9 @@ Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no q
 <br/>
 
 
-Este projeto é a **extensão lógica e técnica** da [Solução para Enquadramento e Gestão de Crédito (Projeto 2)](#). Enquanto o estágio anterior consolidou o *workflow* e a governança, este framework materializa a camada de **Inteligência Analítica** e o rigor estatístico necessário para sustentar decisões baseadas em risco real.
+Este projeto é a **extensão lógica e técnica** da [Solução para Enquadramento e Gestão de Crédito (Projeto 2)](#). Enquanto o estágio anterior consolidou o *workflow* e a governança, este framework constitui a camada de **Inteligência Analítica** e o rigor estatístico necessário para sustentar decisões baseadas em risco real.
 
-Ao estabelecer um **framework analítico de ponta a ponta para a gestão de risco de crédito** — fundamentado nos pilares do acordo de **Basileia II** —, a solução não apenas permite a automação de políticas, mas principalmente a estruturação de uma arquitetura de decisão baseada no cálculo da **Perda Esperada ($EL$)**.
+Ao estabelecer um **framework analítico de ponta a ponta para a gestão de risco de crédito** — fundamentado nos pilares do acordo de **Basileia II** —, a solução permite a automação de políticas e a estruturação de uma arquitetura de decisão baseada no cálculo da **Perda Esperada ($EL$)**.
 
 $$EL = PD \times LGD \times EAD$$
 
