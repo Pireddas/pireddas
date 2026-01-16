@@ -213,7 +213,7 @@ sequenceDiagram
     participant UC as Use Case (Cálculo)
     participant API as API Externa de Cálculo
 
-    Note over Front, API: Início do Ciclo de Execução Soberana
+    Note over Front, API: Início do Ciclo de Execução
 
     Front->>Disp: Envia Request (JSON + Header + Context)
     
