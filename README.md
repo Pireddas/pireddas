@@ -137,7 +137,7 @@ ___
     <h1>Pesquisa e Desenvolvimento</h1>
 </p>
 
-Este portfólio funciona como um **ambiente de experimentação e validação**. Os projetos aqui apresentados transpõem experiências reais do mercado corporativo para um laboratório de testes onde busco provar a transição entre dois modelos:
+Este portfólio funciona como um **ambiente de experimentação e validação** entre dois modelos:
 
 1. **A Gestão Padrão (Vivida):** Estruturas consolidadas de governança e workflow consolidado.
 2. **A Gestão Assistida (Tese):** Uma proposta de inovação que integra IA como `Personas` para suporte à decisão, atualmente em fase de testagem através destes projetos.
