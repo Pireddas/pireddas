@@ -179,7 +179,7 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 ---
 
-<p style="text-align:center;">
+Arquitetura de Governança Ativa
     <h1>Portfólio de Projetos</h1>
 </p>
 
@@ -202,6 +202,10 @@ Este projeto apresenta uma **solução estruturada para comparação de ativos f
 O projeto demonstra como uma análise aparentemente simples pode ser tratada como um **produto analítico**, com separação clara entre **necessidade de negócio**, **requisitos**, **qualidade de software** e **evolução incremental**.
 
 <br/>
+
+<p style="text-align:center;">
+    <h3>Arquitetura de Governança Ativa</h3>
+</p>
 
 ```mermaid
 sequenceDiagram
