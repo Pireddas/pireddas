@@ -203,6 +203,46 @@ O projeto demonstra como uma análise aparentemente simples pode ser tratada com
 
 <br/>
 
+```mermaid
+sequenceDiagram
+    autonumber
+    participant Front as Frontend (Cliente)
+    participant Disp as Foundation Dispatcher
+    participant Gov as Governança & Identidade
+    participant Log as Log Append-Only (Audit)
+    participant UC as Use Case (Cálculo)
+    participant API as API Externa de Cálculo
+
+    Note over Front, API: Início do Ciclo de Execução Soberana
+
+    Front->>Disp: Envia Request (JSON + Header + Context)
+    
+    rect rgb(60, 100, 100)
+        Note right of Disp: Validação de Protocolo (DS-02)
+        Disp->>Gov: Valida Protocolo e Identidade (DS-03)
+        Gov-->>Disp: Identity criada & Sem Replay
+        
+        Disp->>Gov: Verifica Homologação (DS-04)
+        Gov-->>Disp: Método Autorizado (Seal Gerado)
+    end
+
+    Disp->>Log: Registro "No Log, No Execution" (DS-05)
+    Log-->>Disp: Checksum de Auditoria Gerado
+
+    Disp->>UC: Dispatcher chama Handler(safe_payload)
+    
+    rect rgb(60, 100, 100)
+        Note right of UC: Camada de Integração
+        UC->>API: Envia dados para Cálculo (REST/gRPC)
+        API-->>UC: Retorna Resultado Numérico
+    end
+
+    UC-->>Disp: Retorna Resultado Final
+    Disp-->>Front: Entrega Recibo Institucional + Resultado
+
+```
+<br/>
+
 [Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/proj_compara_ativos)
 
 # 
