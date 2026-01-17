@@ -204,7 +204,7 @@ O projeto demonstra como uma análise aparentemente simples pode ser tratada com
 <br/>
 
 <p style="text-align:center;">
-    <h3>Arquitetura de Governança Ativa</h3>
+    <h3>1.1 - Arquitetura de Governança Ativa</h3>
 </p>
 
 ```mermaid
@@ -424,6 +424,14 @@ Além do rigor normativo, o projeto incorpora uma camada de Observabilidade e M�
 
 Em suma, o projeto transforma a conformidade e a auditoria de um custo operacional em uma vantagem competitiva tecnológica, permitindo que a instituição evolua suas inteligências analíticas com total segurança jurídica e operacional.
 
+<br/>
+
+<p style="text-align:center;">
+    <h3>
+        5.1 - Governança de Modelos
+    </h1>
+</p>
+
 ```mermaid
 graph TD
     %% Camada de Alçadas e Aprovação
@@ -467,14 +475,10 @@ graph TD
 ```
 
 
-<br/>
-
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
-<br/>
 
 ---
 
-<br/>
 <br/>
 </p>
