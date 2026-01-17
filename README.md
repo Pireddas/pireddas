@@ -275,6 +275,7 @@ Em etapas posteriores, a solução incorpora **mecanismos de inteligência anal�
 
 A solução, além de padronizar os processos operacionais das equipes comerciais, é concebido como um **ecossistema de decisão de crédito**, no qual cada camada evolutiva — **workflow, motor de decisão, inteligência analítica, monitoramento de carteira e gestão de risco** — substitui estruturas estáticas por um ciclo contínuo de adaptação às condições de mercado.
 
+
 <br/>
 
 
@@ -406,7 +407,7 @@ graph TD
     </h1>
 </p>
 
-<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/55ebc6a4-371f-4a47-993a-20a7906b5f6a" />
+<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/ef71827c-3757-4363-9a97-086b2a722041" />
 
 
 [![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
@@ -422,6 +423,49 @@ A solução implementa uma Máquina de Estados para Ciclo de Vida de Regras, per
 Além do rigor normativo, o projeto incorpora uma camada de Observabilidade e Métricas de Performance, monitorando latências de execução em milissegundos e integridade de selos criptográficos em tempo real. Esta infraestrutura serve como a base para o Projeto 4 (Basileia II), garantindo que as fórmulas de risco (PD, LGD, EAD) estejam sob controle estrito de alçadas, e sustenta a confiabilidade do Projeto 3 (Gestão de Portfólio) ao assegurar que os parâmetros de risco (VaR e limites) tenham sido formalmente autorizados pela gerência ou diretoria antes de influenciarem a alocação de capital.
 
 Em suma, o projeto transforma a conformidade e a auditoria de um custo operacional em uma vantagem competitiva tecnológica, permitindo que a instituição evolua suas inteligências analíticas com total segurança jurídica e operacional.
+
+```mermaid
+graph TD
+    %% Camada de Alçadas e Aprovação
+    subgraph Alçadas ["ESTEIRA DE HOMOLOGAÇÃO (GOVERNANÇA)"]
+        A[Analista: Definição de Metodologia/Parâmetros] --> B[Coordenador/Gerente:<br/>Dupla Validação]
+        B --> C[Diretoria: Aprovação]
+    end
+
+    %% Registro e Estados
+    C --> D{Registro em Banco de Dados}
+    D -->|Champion| E[Campeã 90%]
+    D -->|Challenger| F[Desafiante 10%]
+
+    %% Camada de Execução (Dispatcher)
+    subgraph Execucao ["MOTOR DE EXECUÇÃO"]
+        G[Entrada de Operação] --> H{Dispatcher de Pesos}
+        H -->|Metodologia A| E
+        H -->|Metodologia B| F
+    end
+
+    %% Auditoria e Resultados
+    E --> I[Log de Auditoria]
+    F --> I
+    
+    subgraph Analise ["COMPARAÇÃO E VEREDITO"]
+        I --> J[Análise de Performance e<br/>Resultados]
+        J --> K{Desafiante é melhor?}
+        K -->|Sim| L[Promoção:<br/>Challenger vira Champion]
+        K -->|Não| M[Descarte ou Refinamento]
+    end
+
+    %% Retroalimentação
+    L -.->|Nova Versão Homologada| A
+
+    %% Estilização
+    style C fill:#f96,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#28a745,stroke:#28a745,stroke-width:2px,color:#000
+    style F fill:#ffc107,stroke:#ffc107,stroke-width:2px,color:#000
+    style J fill:#6495ED,stroke:#6495ED,stroke-width:2px,color:#000
+
+```
+
 
 <br/>
 
