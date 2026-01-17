@@ -436,7 +436,7 @@ Em suma, o projeto permite que a instituição evolua suas inteligências analí
 graph TD
     %% Camada de Alçadas e Aprovação
     subgraph Alçadas ["ESTEIRA DE HOMOLOGAÇÃO (GOVERNANÇA)"]
-        A[Analista: Definição de Metodologia/Parâmetros] --> B[Coordenador/Gerente:<br/>Dupla Validação]
+        A[Analista:<br>Definição de Metodologia/Parâmetros] --> B[Coordenador/Gerente:<br/>Dupla Validação]
         B --> C[Diretoria: Aprovação]
     end
 
