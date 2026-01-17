@@ -418,11 +418,11 @@ Este projeto apresenta uma infraestrutura de backend de alta confiabilidade, des
 
 A arquitetura introduz o conceito de Soberania de Dados, onde cada transação é precedida por um protocolo de identidade e selagem institucional. Diferente de sistemas convencionais onde as regras de cálculo estão "escondidas" no código-fonte, este framework as trata como ativos de governança armazenados em banco de dados, com gestão de vigência, versões e metodologias explícitas.
 
-A solução implementa uma Máquina de Estados para Ciclo de Vida de Regras, permitindo estratégias de Champion-Challenger e A/B Testing de metodologias. Neste modelo, uma regra nunca expira por data, mas é substituída por uma nova versão aprovada, gerando um histórico de transição de status (ex: Draft → Challenger → Champion → Deprecated) que permite a reconstituição exata de qualquer cálculo realizado no passado, independente de quantas evoluções o sistema tenha sofrido.
+A solução implementa uma Máquina de Estados para Ciclo de Vida de Regras, Parâmetros, Cálculos e Metodologias, permitindo estratégias de Champion-Challenger e A/B Testing de metodologias. Neste modelo, uma regra nunca expira por data, mas é substituída por uma nova versão aprovada, gerando um histórico de transição de status (ex: Draft → Challenger → Champion → Deprecated) que permite a reconstituição exata de qualquer cálculo realizado no passado, independente de quantas evoluções o sistema tenha sofrido.
 
 Além do rigor normativo, o projeto incorpora uma camada de Observabilidade e Métricas de Performance, monitorando latências de execução em milissegundos e integridade de selos criptográficos em tempo real. Esta infraestrutura serve como a base para o Projeto 4 (Basileia II), garantindo que as fórmulas de risco (PD, LGD, EAD) estejam sob controle estrito de alçadas, e sustenta a confiabilidade do Projeto 3 (Gestão de Portfólio) ao assegurar que os parâmetros de risco (VaR e limites) tenham sido formalmente autorizados pela gerência ou diretoria antes de influenciarem a alocação de capital.
 
-Em suma, o projeto transforma a conformidade e a auditoria de um custo operacional em uma vantagem competitiva tecnológica, permitindo que a instituição evolua suas inteligências analíticas com total segurança jurídica e operacional.
+Em suma, o projeto permite que a instituição evolua suas inteligências analíticas com total segurança jurídica e operacional.
 
 <br/>
 
