@@ -399,6 +399,35 @@ graph TD
 
 [Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
 
+<br/>
+<p style="text-align:center;">
+    <h2>
+        5 - Framework de Governança de Regras, Parâmetros e Metodologias
+    </h1>
+</p>
+
+<img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/55ebc6a4-371f-4a47-993a-20a7906b5f6a" />
+
+
+[![Status](https://img.shields.io/badge/Status-Aguardando%20Dependências-gray)](#) 
+
+<br/>
+
+Este projeto apresenta uma infraestrutura de backend de alta confiabilidade, desenvolvida para atuar como o núcleo de governança e auditoria de regras de negócio. A solução resolve o desafio crítico de garantir que regras, parâmetros, cálculos e metodologias sejam plenamente rastreáveis, imutáveis e vinculados a alçadas de decisão explícitas.
+
+A arquitetura introduz o conceito de Soberania de Dados, onde cada transação é precedida por um protocolo de identidade e selagem institucional. Diferente de sistemas convencionais onde as regras de cálculo estão "escondidas" no código-fonte, este framework as trata como ativos de governança armazenados em banco de dados, com gestão de vigência, versões e metodologias explícitas.
+
+A solução implementa uma Máquina de Estados para Ciclo de Vida de Regras, permitindo estratégias de Champion-Challenger e A/B Testing de metodologias. Neste modelo, uma regra nunca expira por data, mas é substituída por uma nova versão aprovada, gerando um histórico de transição de status (ex: Draft → Challenger → Champion → Deprecated) que permite a reconstituição exata de qualquer cálculo realizado no passado, independente de quantas evoluções o sistema tenha sofrido.
+
+Além do rigor normativo, o projeto incorpora uma camada de Observabilidade e Métricas de Performance, monitorando latências de execução em milissegundos e integridade de selos criptográficos em tempo real. Esta infraestrutura serve como a base para o Projeto 4 (Basileia II), garantindo que as fórmulas de risco (PD, LGD, EAD) estejam sob controle estrito de alçadas, e sustenta a confiabilidade do Projeto 3 (Gestão de Portfólio) ao assegurar que os parâmetros de risco (VaR e limites) tenham sido formalmente autorizados pela gerência ou diretoria antes de influenciarem a alocação de capital.
+
+Em suma, o projeto transforma a conformidade e a auditoria de um custo operacional em uma vantagem competitiva tecnológica, permitindo que a instituição evolua suas inteligências analíticas com total segurança jurídica e operacional.
+
+<br/>
+
+[Acessar Apresentação do Projeto](#) | [Acessar Repositório do Projeto](#)
+
+<br/>
 
 ---
 
