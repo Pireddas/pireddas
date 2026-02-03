@@ -238,7 +238,7 @@ sequenceDiagram
     rect rgb(60, 100, 100)
         Note right of UC: Camada de Integração
         UC->>API: Envia dados para Cálculo (REST/gRPC)
-        API-->>UC: Retorna Resultado Numérico
+        API-->>UC: Retorna Resultado JSON
     end
 
     UC-->>Disp: Retorna Resultado Final
