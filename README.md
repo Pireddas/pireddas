@@ -179,7 +179,7 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 ---
 
-Arquitetura de Governança Ativa
+<p style="text-align:center;">
     <h1>Portfólio de Projetos</h1>
 </p>
 
@@ -188,7 +188,7 @@ Arquitetura de Governança Ativa
 <p style="text-align:center;">
     <h2>
         1 - Solução para Comparação de Ativos Financeiros
-    </h1>
+    </h2>
 </p>
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e71d8d6b-0314-4ffc-ae68-5be7f73cc0d2" />  
@@ -257,7 +257,7 @@ sequenceDiagram
 <p style="text-align:center;">
     <h2>
         2 - Solução para Enquadramento, Decisão e Gestão de Crédito
-    </h1>
+    </h2>
 </p>
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/85843179-cf41-45fd-a909-56eb35f1fc17" />
@@ -288,7 +288,7 @@ A solução, além de padronizar os processos operacionais das equipes comerciai
 <p style="text-align:center;">
     <h2>
         3 - Solução para Gestão de Portfólio de Investimentos
-    </h1>
+    </h2>
 </p>
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/ada08087-8678-4b9c-91e9-9286738398fa" />
@@ -320,7 +320,7 @@ Assim, o projeto consolida um **ecossistema de decisão em investimentos**, no q
 <p style="text-align:center;">
     <h2>
         4 - Ecossistema de Modelagem e Gestão de Risco de Crédito (Basileia II)
-    </h1>
+    </h2>
 </p>
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/e0e1cb03-7f5b-4215-ae15-d8f822813d14" />
@@ -351,7 +351,7 @@ Ao integrar o processamento de dados em Python com a visão de gestão de cartei
 <p style="text-align:center;">
     <h3>
         4.1 - Arquitetura de Decisão (Modelo de Abstração)
-    </h1>
+    </h2>
 </p>
 
 ```mermaid
@@ -404,7 +404,7 @@ graph TD
 <p style="text-align:center;">
     <h2>
         5 - Framework de Governança de Regras, Parâmetros e Metodologias
-    </h1>
+    </h2>
 </p>
 
 <img width="1020" height="180" alt="image" src="https://github.com/user-attachments/assets/ef71827c-3757-4363-9a97-086b2a722041" />
@@ -429,7 +429,7 @@ Em suma, o projeto permite que a instituição evolua suas inteligências analí
 <p style="text-align:center;">
     <h3>
         5.1 - Governança de Modelos
-    </h1>
+    </h2>
 </p>
 
 ```mermaid
