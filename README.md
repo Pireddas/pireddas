@@ -1,4 +1,4 @@
-**>Início<** | [Publicações](./publicacoes.md) | [Portfólio](#) | [Dicionário](#) | [Contato](mailto:ralfpiredda@gmail.com)
+**>Início<** | [Publicações](./publicacoes.md) | [Portfólio](#) | [Repositórios](https://github.com/Pireddas?tab=repositories) | [Contato](mailto:ralfpiredda@gmail.com)
 ___
 
 <img width="1020" height="255" alt="image" src="https://github.com/user-attachments/assets/98f8c70c-a2bd-4543-bf4c-6a301f1cd56a" />
