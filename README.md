@@ -247,7 +247,7 @@ sequenceDiagram
 ```
 <br/>
 
-[Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/calc_engine)
+[Acessar Apresentação do Projeto](https://pireddas.github.io/proj_compara_ativos/apresentacao/) | [Acessar Repositório do Projeto](https://github.com/Pireddas/finance_engine)
 
 # 
 
