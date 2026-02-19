@@ -265,7 +265,6 @@ O processo deixa de ser orientado à produção de artefatos e passa a ser **ori
 <br/><br/>
 
 ---
-**Autor:** Ralf Pereira  
 **Tópico:** Framework de Gestão Assistida por IA  
 **Status:** Modelo em Validação (Tese)  
 
