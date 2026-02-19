@@ -214,7 +214,6 @@ A partir desse entendimento, é possível explorar **uma forma alternativa de ex
 <br/><br/>
 
 ---
-**Autor:** Ralf Pereira  
 **Tópico:** Baseline de Processos Corporativos  
 **Status:** Documentação de Referência (Vivida)
 
