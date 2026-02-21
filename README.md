@@ -197,7 +197,7 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 
 <br/>
 
-Este projeto apresenta uma **solução estruturada para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
+Este projeto apresenta uma **solução para comparação de ativos financeiros**, desenvolvida com foco em **padronização analítica, reprodutibilidade e apoio à decisão**.
 
 O projeto demonstra como uma análise aparentemente simples pode ser tratada como um **produto analítico**, com separação clara entre **necessidade de negócio**, **requisitos**, **qualidade de software** e **evolução incremental**.
 
