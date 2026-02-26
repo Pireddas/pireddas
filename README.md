@@ -8,6 +8,15 @@ ___
     <h1>
         Ralf Pereira    
     </h1>
+    <br/>
+<h2>
+    Disclaimer
+</h1>
+
+Em minha trajetória, o desenvolvimento em Python, VBA, SQL ou qualquer outra tecnologia não é o fim, mas o meio. Os projetos aqui apresentados são a materialização de estratégias de negócio e de desenvolvimento de produtos alinhados às principais tecnologias emergentes que impactam na eficiência e nos resultados das organizações.
+
+**Meu foco:**  
+Demonstrar capacidade de liderança técnica e estratégica no ciclo do negócio, transformando premissas complexas em motores de decisão auditáveis, transparentes e eficientes.
 </p>
 
 <br/>
