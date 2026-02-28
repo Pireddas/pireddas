@@ -265,7 +265,7 @@ sequenceDiagram
 
 <p style="text-align:center;">
     <h2>
-        2 - Solução para Enquadramento, Decisão e Gestão de Carteira de Crédito e Risco
+        2 - Solução para Enquadramento, Decisão e Gestão de Carteira de Crédito
     </h2>
 </p>
 
