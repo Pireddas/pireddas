@@ -160,7 +160,7 @@ Para uma melhor compreensão da estrutura e da proposta dos projetos, recomenda-
 ---
 
 <p style="text-align:center;">
-    <h1>Publicações, Papers e Artigos</h1>
+    <h1>Publicações</h1>
 </p>
 
 
