@@ -189,7 +189,7 @@ Aqui apresento estudos e frameworks focados na evolução da gestão e na efici�
 ---
 
 <p style="text-align:center;">
-    <h1>Portfólio de Projetos</h1>
+    <h1>Planejamento e Priorização de Projetos</h1>
 </p>
 
 <br>
